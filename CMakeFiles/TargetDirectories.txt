@@ -1,0 +1,4 @@
+C:/Users/Martin/Downloads/Musterprojekt/Echtzeitgrafik/Echtzeitgrafik/Echtzeitgrafik/build/CMakeFiles/Echtzeitgrafik.dir
+C:/Users/Martin/Downloads/Musterprojekt/Echtzeitgrafik/Echtzeitgrafik/Echtzeitgrafik/build/CMakeFiles/STB_IMAGE.dir
+C:/Users/Martin/Downloads/Musterprojekt/Echtzeitgrafik/Echtzeitgrafik/Echtzeitgrafik/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Martin/Downloads/Musterprojekt/Echtzeitgrafik/Echtzeitgrafik/Echtzeitgrafik/build/CMakeFiles/ZERO_CHECK.dir
